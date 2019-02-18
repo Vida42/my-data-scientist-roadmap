@@ -129,6 +129,14 @@ BOOKS
 <tr>
     <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_011_Data_Science_from_Scratch">:radio_button:</a></td>
     <td>DS 012</td>
+    <td><a href="https://book.douban.com/subject/26652166/"><i>A Programmer's Guide to Data Mining</i></a></td>
+    <td></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience">Data Science</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_011_Data_Science_from_Scratch">:radio_button:</a></td>
+    <td>DS 013</td>
     <td><a href="https://book.douban.com/subject/3288908/"><i>Programming Collective Intelligence</i></a></td>
     <td></td>
     <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience">Data Science</a></td>
