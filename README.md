@@ -127,6 +127,14 @@ BOOKS
     <td>:star::star::star:</td>
 </tr>
 <tr>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_011_Data_Science_from_Scratch">:white_check_mark:</a></td>
+    <td>DS 012</td>
+    <td><a href="https://book.douban.com/subject/3288908/"><i>Programming Collective Intelligence</i></a></td>
+    <td></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience">Data Science</a></td>
+    <td></td>
+</tr>
+<tr>
     <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_110_Head_First_Data_Analysis">:radio_button:</a></td>
     <td>DS 110</td>
     <td><a href="https://book.douban.com/subject/5257905/"><i>Head First Data Analysis</i></a></td>
@@ -175,7 +183,7 @@ BOOKS
     <td>:star::star::star:</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython/PP_210_Effective_Python">:radio_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython/PP_210_Effective_Python">:black_square_button:</a></td>
     <td>PP 210</td>
     <td><a href="https://book.douban.com/subject/26709315/"><i>Effective Python</i></a></td>
     <td></td>
