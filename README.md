@@ -143,12 +143,12 @@ BOOKS
     <td></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_110_Head_First_Data_Analysis">:radio_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_110_Head_First_Data_Analysis">:white_check_mark:</a></td>
     <td>DS 110</td>
     <td><a href="https://book.douban.com/subject/5257905/"><i>Head First Data Analysis</i></a></td>
-    <td></td>
+    <td>Feb 2019</td>
     <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience">Data Science</a></td>
-    <td></td>
+    <td>:star::star:</td>
 </tr>
 <tr>
     <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_111_Doing_Data_Science">:radio_button:</a></td>
