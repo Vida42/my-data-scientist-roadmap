@@ -38,14 +38,14 @@ BOOKS
     <td>:star::star::star:</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_011_Data_Science_from_Scratch">:radio_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_011_Data_Science_from_Scratch">:white_check_mark:</a></td>
     <td>DS 012</td>
     <td><a href="https://book.douban.com/subject/26652166/"><i>A Programmer's Guide to Data Mining</i></a></td>
-    <td></td>
-    <td></td>
+    <td>Mar 2019</td>
+    <td>:star::star:</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_011_Data_Science_from_Scratch">:radio_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_011_Data_Science_from_Scratch">:circus_tent:</a></td>
     <td>DS 013</td>
     <td><a href="https://book.douban.com/subject/3288908/"><i>Programming Collective Intelligence</i></a></td>
     <td></td>
@@ -59,14 +59,14 @@ BOOKS
     <td>:star::star:</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_111_Doing_Data_Science">:radio_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_111_Doing_Data_Science">:circus_tent:</a></td>
     <td>DS 111</td>
     <td><a href="https://book.douban.com/subject/26320485/"><i>Doing Data Science</i></a></td>
     <td></td>
     <td></td>
 </tr>
 <tr>
-    <td rowspan="3"><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython">Programing</br>in Python</a></td>
+    <td rowspan="3"><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython">Programing<br>in Python</a></td>
     <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython/PP_010_Head_First_Python">:white_check_mark:</a></td>
     <td>PP 010</td>
     <td><a href="https://book.douban.com/subject/10561367/"><i>Head First Python</i></a></td>
@@ -74,14 +74,14 @@ BOOKS
     <td>:star::star::star:</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython/PP_210_Effective_Python">:black_square_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython/PP_210_Effective_Python">:white_circle:</a></td>
     <td>PP 210</td>
     <td><a href="https://book.douban.com/subject/26709315/"><i>Effective Python</i></a></td>
     <td></td>
     <td></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython/PP_211_Learning_Python">:black_square_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython/PP_211_Learning_Python">:white_circle:</a></td>
     <td>PP 211</td>
     <td><a href="https://book.douban.com/subject/6049132/"><i>Learning Python</i></a></td>
     <td></td>
@@ -89,7 +89,7 @@ BOOKS
 </tr>
 <tr>
     <td><a href="">sub4</a></td>
-    <td><a href="">:black_square_button:</a></td>
+    <td><a href="">:white_circle:</a></td>
     <td></td>
     <td><a href=""><i>book4</i></a></td>
     <td>time4</td>
@@ -112,29 +112,29 @@ COURSES
 </tr>
 <tr>
     <td rowspan="1"><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience">Data Science</a></td>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_220_CS_109">:black_square_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataScience/DS_220_CS_109">:circus_tent:</a></td>
     <td>DS 220</td>
     <td><a href="http://cs109.github.io/2015/">CS 109</a></td>
     <td></td>
     <td></td>
 </tr>
 <tr>
-    <td rowspan="3"><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataStructure%26Algorithms">Data Structure & Algorithms</a></td>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataStructure%26Algorithms/DSA_020_CS_61A">:radio_button:</a></td>
+    <td rowspan="3"><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataStructure%26Algorithms">Data Structure<br>& Algorithms</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataStructure%26Algorithms/DSA_020_CS_61A">:black_square_button:</a></td>
     <td>DSA 020</td>
     <td><a href="https://inst.eecs.berkeley.edu/~cs61a/fa18/">CS 61A</a></td>
     <td></td>
     <td>:star::star::star::star:</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataStructure%26Algorithms/DSA_120_Algorithms_Stanford">:radio_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataStructure%26Algorithms/DSA_120_Algorithms_Stanford">:black_square_button:</a></td>
     <td>DSA 120</td>
     <td><a href="https://www.coursera.org/specializations/algorithms">Algorithms Stanford</a></td>
     <td></td>
     <td></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataStructure%26Algorithms/DSA_121_Algorithms_Princeton">:radio_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/DataStructure%26Algorithms/DSA_121_Algorithms_Princeton">:black_square_button:</a></td>
     <td>DSA 121</td>
     <td><a href="https://www.coursera.org/learn/algorithms-part1">Algorithms Princeton</a></td>
     <td></td>
@@ -143,37 +143,37 @@ COURSES
 
 <tr>
     <td rowspan="4"><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/Mathematics">Mathematics</a></td>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/Mathematics/MA_020_Essence_of_Linear_Algebra">:black_square_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/Mathematics/MA_020_Essence_of_Linear_Algebra">:circus_tent:</a></td>
     <td>MA 020</td>
     <td><a href="https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of Linear Algebra</a></td>
     <td></td>
     <td></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/Mathematics/MA_021_Probability_and_Statistics">:black_square_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/Mathematics/MA_021_Probability_and_Statistics">:circus_tent:</a></td>
     <td>MA 021</td>
     <td>
-        <a href="https://www.bilibili.com/video/BV1Ss411C7CG">Probability and Statistics</a></br>
+        <a href="https://www.bilibili.com/video/BV1Ss411C7CG">Probability and Statistics</a><br>
         <a href="https://book.douban.com/subject/2201479/"><i>概率论与数理统计[书]</i></a>
     </td>
     <td></td>
     <td></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/Mathematics/MA_120_Advanced_Linear_Algebra">:black_square_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/Mathematics/MA_120_Advanced_Linear_Algebra">:circus_tent:</a></td>
     <td>MA 120</td>
     <td>
-        <a href="https://www.bilibili.com/video/av22633208">Advanced Linear Algebra</a></br>
+        <a href="https://www.bilibili.com/video/av22633208">Advanced Linear Algebra</a><br>
         <a href="https://book.douban.com/subject/4839187/"><i>高等代数[书]</i></a>
     </td>
     <td></td>
     <td></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/Mathematics/MA_121_Mathematical_Analysis">:black_square_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/Mathematics/MA_121_Mathematical_Analysis">:circus_tent:</a></td>
     <td>MA 121</td>
     <td>
-        <a href="https://www.bilibili.com/video/av18844091/?p=92">Mathematical Analysis</a></br>
+        <a href="https://www.bilibili.com/video/av18844091/?p=92">Mathematical Analysis</a><br>
         <a href="https://book.douban.com/subject/1165179/"><i>数学分析教程[书]</i></a>
     </td>
     <td></td>
@@ -182,7 +182,7 @@ COURSES
 
 <tr>
     <td rowspan="1"><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/MachineLearning">Machine Learning</a></td>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/MachineLearning/ML_020_Machine_Learning">:black_square_button:</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/MachineLearning/ML_020_Machine_Learning">:circus_tent:</a></td>
     <td>ML 020</td>
     <td><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a></td>
     <td></td>
@@ -190,8 +190,8 @@ COURSES
 </tr>
 
 <tr>
-    <td rowspan="1"><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython">Programing in Python</a></td>
-    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython/PP_121_Fundamentals_of_Computing">:radio_button:</a></td>
+    <td rowspan="1"><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython">Programing<br>in Python</a></td>
+    <td><a href="https://github.com/Vida42/my-data-scientist-roadmap/tree/master/PrograminginPython/PP_121_Fundamentals_of_Computing">:black_square_button:</a></td>
     <td>PP 121</td>
     <td><a href="https://www.coursera.org/specializations/computer-fundamentals">Fundamentals of Computing</a></td>
     <td></td>
@@ -209,3 +209,10 @@ Reference Links
 
 <br></br>
 
+:white_check_mark: DONE
+
+:circus_tent: ABANDONED
+
+:black_square_button: ING
+
+:white_circle: TBC
