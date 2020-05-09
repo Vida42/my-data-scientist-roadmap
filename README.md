@@ -110,7 +110,7 @@ BOOKS
     <td><a>:white_check_mark:</a></td>
     <td>PP 011</td>
     <td>
-        <a href="https://leot5.com/2019/03/21/python-crash-course/">Head First Python</a><br>
+        <a href="https://leot5.com/2019/03/21/python-crash-course/">Python Crash Course</a><br>
         <a href="https://book.douban.com/subject/26829016"><i>Python编程[书]</i></a>
     </td>
     <td>Apr 2019</td>
